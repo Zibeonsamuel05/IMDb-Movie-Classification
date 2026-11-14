@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the archived release using its Zenodo DOI."
+title: "IMDb Movie Rating Classification (2003–2022)"
+type: software
+authors:
+  - family-names: "Project contributors"
+    given-names: "Add contributor names before publishing"
+version: 1.0.0
+date-released: 2026-11-14
+repository-code: "ADD_GITHUB_REPOSITORY_URL"
